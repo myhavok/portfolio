@@ -1,0 +1,24 @@
+h1{
+  font-family: Times new roman;
+  font-size: 40px;
+    text-decoration:underline;
+  color:#87cefa;
+    text-shadow: 1px 1px 2px pink;
+}
+p2{
+  font-size:22px;
+}
+h3{
+  font-family:cursive;
+  text-decoration:underline;
+}
+  
+p6{
+    text-decoration:underline;
+    color: pink;
+  }
+  
+}
+body{
+  background: #FFFFE0;
+}
